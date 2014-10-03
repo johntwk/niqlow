@@ -1,0 +1,72 @@
+Log file created at 10/03/14 09:03:10
+oxdoc 1.1-beta [05/22/14]
+(c) Copyright 2005-2014 by Y. Zwols [yorizwols@users.sourceforge.net]
+
+oxdoc is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+See the LICENSE file for distribution details.
+
+Loading configuration file oxdoc.xml
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\main.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\GetStarted.ox
+Warning: Multiple declarations of symbol 'Search'
+Warning: Multiple declarations of symbol 'Search::Anonymous enum 1$$Noff'
+Warning: Multiple declarations of symbol 'Search::lam'
+Warning: Multiple declarations of symbol 'Search::p'
+Warning: Multiple declarations of symbol 'Search::d'
+Warning: Multiple declarations of symbol 'Search::a'
+Warning: Multiple declarations of symbol 'Search::meth'
+Warning: Multiple declarations of symbol 'Search::Run'
+Warning: Multiple declarations of symbol 'Search::Reachable'
+Warning: Multiple declarations of symbol 'Search::Utility'
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\GetStartedData.ox
+Warning: Multiple declarations of symbol 'DerivedSearch'
+Warning: Multiple declarations of symbol 'DerivedSearch::u'
+Warning: Multiple declarations of symbol 'DerivedSearch::simdata'
+Warning: Multiple declarations of symbol 'SearchData'
+Warning: Multiple declarations of symbol 'SearchData::Anonymous enum 1$$N'
+Warning: Multiple declarations of symbol 'SearchData::Anonymous enum 1$$MaxOb'
+Warning: Multiple declarations of symbol 'DerivedSearch::Run'
+Warning: Multiple declarations of symbol 'SearchData::SearchData'
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\AllTest.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\AllTestOpt.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\RustEmet1987.ox
+Warning: Included file oxdraw.h could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\RustEmet1987mle.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinJPE1984b.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinJPE1984.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinEmet1987.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\KennetJAE1994.ox
+Warning: Included file oxdraw.h could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\KeaneWolpinREStat1994.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\BerkovecSternEmet1991.ox
+Warning: Included file oxdraw.h could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WstarTest.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\GilleskieEmet1998.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\MNP.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\IJCEmet2009.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\AguirregabiriaMira2002.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\TestGHK.ox
+Warning: Multiple declarations of symbol 'TestGHK'
+Warning: Multiple declarations of symbol 'TestGHK::Run'
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\StataMNP.ox
+Warning: Multiple declarations of symbol 'StataMNP'
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\ClientServerTestA.ox
+Warning: Multiple declarations of symbol 'MyServer'
+Warning: Multiple declarations of symbol 'MyClient'
+Warning: Multiple declarations of symbol 'ClientServer'
+Warning: Multiple declarations of symbol 'ClientServer::myp2p'
+Warning: Multiple declarations of symbol 'MyServer::Execute'
+Warning: Multiple declarations of symbol 'MyClient::Execute'
+Warning: Multiple declarations of symbol 'ClientServer::Run'
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\PeerCommunicationTestA.ox
+Warning: Multiple declarations of symbol 'MyPeer'
+Warning: Multiple declarations of symbol 'MyPeer::MyPeer'
+Warning: Multiple declarations of symbol 'MyPeer::Run'
+Warning: Symbol 'Client' referenced, but not found
+Warning: Symbol 'Client::Tasks' referenced, but not found
+Warning: Symbol 'Server' referenced, but not found
+Warning: Symbol 'Server::Interface' referenced, but not found
+Warning: Symbol 'Rust' referenced, but not found
+Warning: Symbol 'DataSet' referenced, but not found
+Warning: Symbol 'Parameter' referenced, but not found

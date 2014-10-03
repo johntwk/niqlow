@@ -1,0 +1,41 @@
+Log file created at 10/03/14 09:03:02
+oxdoc 1.1-beta [05/22/14]
+(c) Copyright 2005-2014 by Y. Zwols [yorizwols@users.sourceforge.net]
+
+oxdoc is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+See the LICENSE file for distribution details.
+
+Loading configuration file oxdoc.xml
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\DDP.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\GetStarted
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\GetStartedData
+Warning: Included file GetStarted.ox could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\ActionVariable.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\StateVariable.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\Clock.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\TimeInvariant.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\DP.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\Bellman.ox
+Warning: Definition of method EndogTrans of class EndogTrans: class EndogTrans is not defined yet.
+Warning: Definition of method EndogTrans of class EndogTrans: method is not declared yet.
+Warning: Definition of method Run of class EndogTrans: method is not declared yet.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\Outcomes.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\Methods.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\DPDebug.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\DPAuxiliary.ox
+Warning: Included file oxstd.h could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\Variables.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\DDP\..\Shared\Shared.ox
+Warning: Included file oxstd.oxh could not be opened. File will be ignored.
+Warning: Included file oxfloat.oxh could not be opened. File will be ignored.
+Warning: Included file oxprob.oxh could not be opened. File will be ignored.
+Warning: Symbol 'Objective' referenced, but not found
+Warning: Symbol 'Algorithm' referenced, but not found
+Warning: Symbol 'StateVariable::Unreachable' referenced, but not found
+Warning: Symbol 'PermanentChoice::Target' referenced, but not found
+Warning: Symbol 'Actions' referenced, but not found
+Warning: Symbol '`NoiseLevels`' referenced, but not found
+Warning: Symbol 'Gsolve' referenced, but not found
+Warning: Symbol 'Auxiliary::Variable' referenced, but not found
+Warning: Symbol 'EndogeUtil::ex' referenced, but not found

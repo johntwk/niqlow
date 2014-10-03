@@ -1,0 +1,17 @@
+Log file created at 10/03/14 09:03:07
+oxdoc 1.1-beta [05/22/14]
+(c) Copyright 2005-2014 by Y. Zwols [yorizwols@users.sourceforge.net]
+
+oxdoc is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+See the LICENSE file for distribution details.
+
+Loading configuration file oxdoc.xml
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\Hybrids\DPSystems.ox
+Warning: Definition of method RVEdU of class RVEdU: class RVEdU is not defined yet.
+Warning: Definition of method RVEdU of class RVEdU: method is not declared yet.
+Warning: Definition of method Run of class RVEdU: method is not declared yet.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\Hybrids\Hybrids.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\Hybrids\ImaiJainChing.ox
+Warning: Symbol 'AV' referenced, but not found
+Warning: Symbol 'ImainJainChing::Design' referenced, but not found

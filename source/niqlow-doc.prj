@@ -1,0 +1,1011 @@
+5 Patch Control
+
+0
+0
+1
+FiveO\GetStarted
+333
+38
+25
+
+About niqlow
+TeX
+1060859 0 -1 213 -1 0 25 25 1212 404 0 1 40 0 -1 -1 0 0 83 -1 -1 83 1 0 0 -1  0 0 0
+About\Acknowledgements
+TeX
+1060859 0 -1 104 -1 695 25 25 1212 404 0 1 176 204 -1 -1 0 0 5 -1 -1 5 1 0 695 -1  0 0 0
+DDP\ActionVariable.oxdoc
+HTML
+1050619 0 -1 7314 -1 2702 300 300 1678 904 0 1 40 289 -1 -1 0 0 40 -1 -1 40 1 0 2702 -1  0 -1 0
+FiveO\Algorithms.oxdoc
+HTML
+1050619 0 -1 495 -1 495 60 60 1272 384 0 1 40 221 -1 -1 0 0 58 -1 -1 58 1 0 495 -1  0 0 0
+DDP\Bellman.oxdoc
+HTML
+17827835 0 -1 3502 -1 3517 0 0 1378 604 0 1 376 272 -1 -1 0 0 61 -1 -1 61 1 0 3517 -1  0 0 0
+CFMPI\CFMPI.oxdoc
+HTML
+17827835 0 -1 4851 -1 90 138 138 1316 531 0 1 760 0 -1 -1 0 0 88 -1 -1 88 1 0 90 -1  0 -1 0
+About\Citation
+HTML
+17827835 0 -1 771 -1 867 50 50 1237 429 0 1 40 204 -1 -1 0 0 5 -1 -1 5 1 0 867 -1  0 0 0
+DDP\Clock.oxdoc
+HTML
+1050619 0 -1 2236 -1 3471 180 180 1362 570 0 1 768 289 -1 -1 0 0 42 -1 -1 42 1 0 3471 -1  0 0 0
+DDP\DDP.oxdoc
+HTML
+1050619 2 -1 36764 -1 36783 300 300 1678 938 0 1 1240 289 -1 -1 0 0 78 -1 -1 78 1 0 36783 -1  0 0 0
+DDP\DP.oxdoc
+HTML
+1050619 2 -1 717 -1 725 30 30 1408 668 0 1 328 170 -1 -1 0 0 0 -1 -1 0 1 0 725 -1  0 -1 0
+DDP\DPDebug.ox
+DATA
+5243122 0 0 1 2 1 75 75 1262 435 1 0 72 34 -1 -1 0 0 21 0 0 21 1 0 1 2  0 0 0
+Hybrids\DPSystems.oxdoc
+HTML
+1050619 0 -1 0 -1 0 0 0 1212 324 0 1 40 0 -1 -1 0 0 97 -1 -1 97 1 0 0 -1  0 0 0
+FiveO\FiveO.oxdoc
+HTML
+1050619 0 -1 12802 -1 0 90 90 1302 414 0 1 40 0 -1 -1 0 0 58 -1 -1 58 1 0 0 -1  0 0 0
+FiveO\GetStarted
+TeX
+1060859 0 -1 7448 -1 7465 100 100 1287 460 0 1 584 170 -1 -1 0 0 57 -1 -1 57 1 0 7465 -1  0 0 0
+DDP\GetStarted
+HTML
+17827835 0 -1 4444 -1 4051 50 50 1237 429 0 1 664 119 -1 -1 0 0 73 -1 -1 73 1 0 4051 -1  0 0 0
+DDP\GetStartedData
+HTML
+17827835 0 -1 995 -1 1002 25 25 1212 404 0 1 768 187 -1 -1 0 0 36 -1 -1 36 1 0 1002 -1  0 -1 0
+About\Install
+HTML
+17827835 0 -1 4868 -1 5052 100 100 1287 479 0 1 40 289 -1 -1 0 0 59 -1 -1 59 1 0 5052 -1  0 -1 0
+Hybrids\ImaiJainChing.oxdoc
+HTML
+1050619 0 -1 0 -1 0 30 30 1242 354 0 1 40 0 -1 -1 0 0 37 -1 -1 37 1 0 0 -1  0 0 0
+About\License
+HTML
+17827835 0 -1 852 -1 833 75 75 1262 454 0 1 848 204 -1 -1 0 0 5 -1 -1 5 1 0 833 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\Makefile
+TeX
+1060859 0 -1 0 -1 124 150 150 1337 529 0 1 40 153 -1 -1 0 0 0 -1 -1 0 1 0 124 -1  0 0 0
+About\Makefile
+TeX
+1060859 0 -1 340 -1 389 175 175 1362 554 0 1 40 323 -1 -1 0 0 0 -1 -1 0 1 0 389 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\About\Makefile
+TeX
+1060859 0 -1 72 -1 77 175 175 1362 554 0 1 416 51 -1 -1 0 0 0 -1 -1 0 1 0 77 -1  0 0 0
+DDP\Methods.oxdoc
+HTML
+1050619 0 -1 85 -1 93 150 150 1362 474 0 1 48 51 -1 -1 0 0 112 -1 -1 112 1 0 93 -1  0 0 0
+niqlow is
+TeX
+1060859 0 -1 0 -1 489 50 50 1237 429 0 1 40 119 -1 -1 0 0 79 -1 -1 79 1 0 489 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\text\notes.txt.html
+HTML
+17827835 0 -1 33632 -1 0 0 0 1362 547 0 1 40 0 -1 -1 0 0 6 -1 -1 6 1 0 0 -1  0 -1 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Econ954\notes.tex
+TeX
+269496315 0 -1 25934 -1 25988 25 25 1287 283 0 1 40 306 -1 -1 0 0 -1 -1 -1 -1 1 0 25988 -1  0 0 0
+FiveO\Objective.oxdoc
+HTML
+1050619 0 -1 8620 -1 8764 120 120 1332 444 0 1 576 272 -1 -1 0 0 60 -1 -1 60 1 0 8764 -1  0 0 0
+DDP\Outcomes.oxdoc
+HTML
+1050619 0 -1 3469 -1 3468 180 180 1558 784 0 1 152 255 -1 -1 0 0 136 -1 -1 136 1 0 3468 -1  0 -1 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\text\oxdoc.css
+DATA
+5308658 0 287 1 291 5 0 419 425 838 1 0 104 272 -1 -1 0 0 7 2 2 7 1 0 5 291  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\About\oxdoc.sed
+DATA
+5243122 0 3 1 0 1 125 125 1312 504 1 0 72 0 -1 -1 0 0 189 0 0 189 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\oxdoc.sed
+DATA
+5243122 0 0 1 0 1 25 25 1212 404 1 0 72 0 -1 -1 0 0 189 0 0 189 1 0 1 0  0 0 0
+About\oxdoc.xml
+DATA
+5243122 0 1 39 2 38 100 100 1287 479 1 0 368 34 -1 -1 0 0 8 0 0 8 1 0 38 2  0 0 0
+FiveO\Parameters.oxdoc
+HTML
+1050619 0 -1 3550 -1 0 150 150 1362 474 0 1 40 0 -1 -1 0 0 60 -1 -1 60 1 0 0 -1  0 0 0
+About\ReleaseNotes
+HTML
+17827835 0 -1 331 -1 232 150 150 1337 529 0 1 944 85 -1 -1 0 0 30 -1 -1 30 1 0 232 -1  0 -1 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\RustEmet1987.oxdoc
+HTML
+17827835 0 -1 4161 -1 5149 0 0 1292 547 1 1 128 238 -1 -1 0 0 107 -1 -1 107 1 0 5149 -1  0 -1 0
+DDP\StateVariable.oxdoc
+HTML
+17827835 0 -1 1853 -1 2875 90 90 1272 480 0 1 296 289 -1 -1 0 0 44 -1 -1 44 1 0 2875 -1  0 -1 0
+DDP\TimeInvariant.oxdoc
+HTML
+1050619 0 -1 2379 -1 2375 90 90 1272 480 0 1 1216 119 -1 -1 0 0 48 -1 -1 48 1 0 2375 -1  0 0 0
+DDP\Variables.oxdoc
+HTML
+1050619 0 -1 1744 -1 1761 90 90 1272 480 0 1 1184 289 -1 -1 0 0 1900 -1 -1 1900 1 0 1761 -1  0 0 0
+:\Users\Chris\Desktop\classroom2.tex
+TeX
+269496315 0 -1 26095 -1 0 30 30 1242 332 0 1 40 0 -1 -1 0 0 28 -1 -1 28 1 0 0 -1  0 -1 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\niqlow has moved to Google Drive.txt
+ASCII
+273688443 0 0 1 1 33 175 175 1362 535 1 0 328 17 -1 -1 0 0 33 0 0 33 1 0 33 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\qshare-index.html
+HTML
+269486075 0 -1 26 -1 0 150 150 1337 510 0 1 40 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+DDP\Get_Started
+HTML
+286263291 0 -1 3320 -1 17008 30 30 1408 576 0 1 49 408 -1 -1 0 0 73 -1 -1 73 1 0 17008 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\DDP\oxdoc.sed
+DATA
+273678578 0 1 1 2 1 0 0 1187 379 1 0 72 34 -1 -1 0 0 -1 -1 -1 -1 1 0 1 2  0 0 0
+About\Purpose
+TeX:UNIX
+269594619 0 -1 0 -1 0 125 125 1312 504 0 1 40 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+niqlow.oxdoc
+HTML
+286263289 0 -1 642 -1 465 0 0 1362 547 0 1 80 85 -1 -1 0 0 503 -1 -1 503 1 0 465 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow-misc\nfxp\dat\README
+TeX:UNIX
+269594619 0 -1 0 -1 1023 90 90 1468 636 0 1 248 357 -1 -1 0 0 24 -1 -1 24 1 0 1023 -1  0 0 0
+:\Program Files (x86)\OxMetrics6\OxEdit\ox.def
+TeX:STY
+269496306 0 0 1 0 1 275 275 1916 885 0 0 24 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Program Files (x86)\OxMetrics6\OxEdit\html.def
+TeX:STY
+269496306 0 0 1 4 1 25 25 1666 616 0 0 24 68 -1 -1 0 0 -1 -1 -1 -1 1 0 1 4  0 0 0
+:\Program Files (x86)\OxMetrics6\OxEdit\java.def
+TeX:STY
+269496306 0 0 1 0 1 75 75 1716 666 0 0 24 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\text\blank.pdf
+ASCII
+273753979 0 0 1 0 1 120 120 1332 422 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+DDP\DPAuxiliary.oxdoc
+HTML
+269486075 0 -1 0 -1 12 120 120 1498 724 0 -1 143 0 -1 -1 0 0 25 -1 -1 25 1 0 12 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\BLS-Proposal.tex
+TeX:UNIX
+269594619 1 -1 0 -1 1985 60 60 1242 472 0 -1 25 567 -1 -1 0 0 -1 -1 -1 -1 1 0 1985 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_rfpub.htm
+HTML
+269486075 0 5 18 -1 2425 300 300 1678 904 0 -1 285 567 -1 -1 0 0 -1 -1 -1 -1 1 0 2425 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_super.htm
+HTML
+269486075 0 -1 602 -1 29 90 90 1706 694 0 -1 337 0 -1 -1 0 0 -1 -1 -1 -1 1 0 29 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_stud.htm
+HTML
+269486075 0 82 5 -1 5636 60 60 1676 664 0 -1 25 567 -1 -1 0 0 -1 -1 -1 -1 1 0 5636 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_info.htm
+HTML
+269486075 0 -1 0 -1 1026 30 30 1646 634 0 -1 25 315 -1 -1 0 0 -1 -1 -1 -1 1 0 1026 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_exper.htm
+HTML
+269486075 0 -1 209 -1 209 0 0 1616 604 0 -1 647 63 -1 -1 0 0 -1 -1 -1 -1 1 0 209 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\VITAE\cv_wkpap.htm
+HTML
+269486075 0 -1 548 -1 893 120 120 1736 724 0 -1 25 273 -1 -1 0 0 -1 -1 -1 -1 1 0 893 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\output\GetStartedData.txt
+ASCII
+5252987 0 0 1 0 1 30 30 1408 634 1 -1 83 0 -1 -1 0 0 25 0 0 25 1 0 1 0  0 0 0
+DDP\Get_Started_with_Data
+HTML
+1050619 0 -1 245 -1 700 300 300 1678 904 0 -1 25 273 -1 -1 0 0 33 -1 -1 33 1 0 700 -1  0 0 0
+ReleaseNotes
+HTML
+17827835 0 -1 3484 -1 3543 0 0 1362 547 0 -1 582 147 -1 -1 0 0 30 -1 -1 30 1 0 3543 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Econ954\OxIntro_solutions\OxIntro2.7key.oxdoc
+HTML
+17827835 0 -1 385 -1 651 240 240 1557 790 0 -1 1209 231 -1 -1 0 0 16 -1 -1 16 1 0 651 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Econ954\OxIntro_solutions\OxIntro2.4key.oxdoc
+HTML
+17827835 0 -1 1057 -1 1061 30 30 1408 580 0 -1 25 462 -1 -1 0 0 26 -1 -1 26 1 0 1061 -1  0 0 0
+Install
+HTML
+1050619 0 -1 3982 -1 4380 0 0 1362 547 0 -1 1148 483 -1 -1 0 0 59 -1 -1 59 1 0 4380 -1  0 0 0
+Examples
+HTML
+1050619 0 -1 139 -1 139 0 0 1362 547 0 -1 995 42 -1 -1 0 0 30 -1 -1 30 1 0 139 -1  0 0 0
+CLA
+HTML
+17827835 0 -1 2487 -1 24 115 115 1293 508 0 -1 227 0 -1 -1 0 0 40 -1 -1 40 1 0 24 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\NumMeth\Textbook\ElementsOfProgrammingInEconomics.html
+HTML
+17827835 0 -1 128593 -1 432 30 30 1242 354 0 -1 25 315 -1 -1 0 0 38 -1 -1 38 1 0 432 -1  0 0 0
+CFMPI\InstallAndUse
+HTML
+286263291 0 38 84 -1 3660 210 210 1588 726 0 -1 764 546 -1 -1 0 0 48 -1 -1 48 1 0 3660 -1  0 0 0
+DDP\DDP.ox
+OX
+269485042 0 0 1 0 1 90 90 1478 672 0 -1 25 0 -1 -1 0 0 21 0 0 21 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\KeaneWolpinREStat1994.oxdoc
+HTML
+286263291 0 -1 3436 -1 3151 0 0 1292 547 1 -1 450 273 -1 -1 0 0 67 -1 -1 67 1 0 3151 -1  0 0 0
+niqlow.ox
+HTML
+269486075 0 -1 0 -1 0 0 0 1362 547 0 -1 25 0 -1 -1 0 0 23 -1 -1 23 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\REFEREE\EmetPastorino\report.txt
+ASCII
+273688443 1 0 1 103 1 30 30 1408 634 1 -1 83 840 -1 -1 0 0 88 0 0 88 1 0 1 103  0 0 0
+:\Users\Chris\Desktop\skit.txt
+ASCII
+273688443 1 0 1 46 1 0 0 1182 390 1 -1 83 525 -1 -1 0 0 1 0 0 1 1 0 1 46  0 0 0
+DDP\Data.ox
+OX
+269485042 0 0 1 0 1 240 240 1856 844 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+DDP\oxdoc.xml
+ASCII
+273688442 0 1 58 3 48 0 0 1378 638 1 -1 553 63 -1 -1 0 0 8 0 0 8 1 0 48 3  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\DDP.h
+DATA
+273678578 0 124 95 1 1 138 138 1214 515 1 -1 83 21 -1 -1 0 0 1 175 175 1 1 0 1 1  0 0 0
+Makefile
+HTML
+269486075 0 -1 612 -1 610 60 60 1676 698 0 -1 150 630 -1 -1 0 0 0 -1 -1 0 1 0 610 -1  0 0 0
+oxdoc.xml
+DATA
+273678578 1 2 38 2 32 0 0 1362 566 1 -1 393 42 -1 -1 0 0 8 0 0 8 1 0 32 2  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\methods\lecture\training2012MERGED.tex
+TeX
+269496315 0 -1 192816 -1 192830 90 90 1272 502 0 -1 965 546 -1 -1 0 0 -1 -1 -1 -1 1 0 192830 -1  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 7\ConfigEx\UserPreferences.ini
+DATA:INI:EDT
+269485050 2 22 7 22 8 60 60 1377 610 1 -1 153 462 -1 -1 0 0 83 0 0 83 1 0 8 22  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 7\ConfigEx\Keywords.ini
+DATA:INI:EDT
+269485050 0 7111 6 7099 21 210 210 1527 760 1 -1 283 210 -1 -1 0 0 83 0 0 83 1 0 21 7099  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 7\ConfigEx\Modes.ini
+DATA:INI:EDT
+269485050 0 30 1 23 1 120 120 1437 670 1 -1 83 84 -1 -1 0 0 83 0 0 83 1 0 1 23  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Econ954\major2\instructions.html
+HTML
+269486075 1 -1 0 -1 5814 90 90 1468 640 0 -1 25 357 -1 -1 0 0 39 -1 -1 39 1 0 5814 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Econ954\major2_2011.zip
+ASCII:UNIX
+273786747 0 0 1 0 1 180 180 1856 726 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\REFEREE\IER\germany.tex
+TeX
+286273531 0 -1 0 -1 3514 60 60 1736 606 0 -1 525 126 -1 -1 0 0 0 -1 -1 0 1 0 3514 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WstarTest.oxdoc
+DATA
+5243122 0 15 1 15 1 69 69 1316 347 1 -1 73 255 -1 -1 0 0 60 0 0 60 1 0 1 15  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinJPE1984.oxdoc
+DATA
+5243122 0 0 1 2 1 0 0 1362 547 1 -1 73 34 -1 -1 0 0 95 0 0 95 1 0 1 2  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinEmet1987.oxdoc
+HTML
+17827835 0 -1 108 -1 113 0 0 1362 547 1 -1 147 34 -1 -1 0 0 100 -1 -1 100 1 0 113 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\TestSystemSolve.oxdoc
+DATA
+5243122 2 4 1 4 19 0 0 1362 547 1 -1 217 68 -1 -1 0 0 48 0 0 48 1 0 19 4  0 0 0
+DynamicPrograms\StateVariable.oxdoc
+HTML
+17827835 0 -1 47552 -1 47015 0 0 1292 547 0 -1 25 357 -1 -1 0 0 62 -1 -1 62 1 0 47015 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\StataMNP.oxdoc
+HTML
+17827835 0 -1 1874 -1 0 0 0 1292 547 0 -1 25 0 -1 -1 0 0 74 -1 -1 74 1 0 0 -1  0 0 0
+DynamicPrograms\Spaces.oxdoc
+DATA
+5243122 0 2 13 0 13 0 0 1362 547 1 -1 169 0 -1 -1 0 0 26 0 0 26 1 0 13 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\ReEmpExp.oxdoc
+HTML
+17827835 0 -1 1526 -1 1525 0 0 1292 547 1 -1 593 204 -1 -1 0 0 52 -1 -1 52 1 0 1525 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\ReEmpEx.oxdoc
+HTML
+17827835 0 -1 588 -1 579 0 0 1362 566 1 -1 424 272 -1 -1 0 0 5 -1 -1 5 1 0 579 -1  0 0 0
+DynamicPrograms\RandomEffect.oxdoc
+HTML
+17827835 0 11 11 -1 46 138 138 1362 431 0 -1 25 34 -1 -1 0 0 81 0 0 81 1 0 46 -1  0 0 0
+DynamicPrograms\Actions.ox
+DATA
+5243122 0 0 1 3 1 138 138 1214 553 1 -1 73 51 -1 -1 0 0 1 0 0 1 1 0 1 3  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\default.html
+HTML
+1050619 0 -1 124 -1 116 92 92 1270 485 0 -1 200 68 -1 -1 0 0 0 -1 -1 0 1 0 116 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\oxdoc.css
+DATA
+5308658 2 247 13 247 15 0 0 425 419 1 -1 185 187 -1 -1 0 0 7 32 32 7 1 0 15 247  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\oxdoc.css
+DATA
+5308658 2 221 10 221 12 425 0 850 419 1 -1 161 187 -1 -1 0 0 7 1 1 7 1 0 12 221  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\KennetJAE1994.oxdoc
+DATA
+5243122 0 45 1 0 1 0 0 1362 566 1 -1 73 0 -1 -1 0 0 111 0 0 111 1 0 1 0  0 0 0
+Purpose
+HTML:UNIX
+1148923 2 -1 792 -1 798 0 0 1362 566 0 -1 567 204 -1 -1 0 0 26 -1 -1 26 1 0 798 -1  0 0 0
+Shared\Shared.ox
+DATA
+5243122 0 0 1 0 1 115 115 1237 392 1 -1 73 0 -1 -1 0 0 20 0 0 20 1 0 1 0  0 0 0
+DynamicPrograms\DPSystems.oxdoc
+DATA
+5243122 0 0 13 0 18 115 115 1339 408 1 -1 209 0 -1 -1 0 0 98 0 0 98 1 0 18 0  0 0 0
+CFMPI\oxdoc.xml
+DATA
+5243122 0 4 41 4 1 92 92 1339 370 1 -1 73 68 -1 -1 0 0 8 0 0 8 1 0 1 4  0 0 0
+Optimization\oxdoc.xml
+DATA
+5243122 0 2 54 4 35 0 0 1362 566 1 -1 345 68 -1 -1 0 0 8 0 0 8 1 0 35 4  0 0 0
+DynamicPrograms\oxdoc.xml
+DATA
+5243122 0 3 48 3 40 850 419 1275 838 1 -1 385 51 -1 -1 0 0 8 0 0 8 1 0 40 3  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\BerkovecSternEmet1991.oxdoc
+DATA
+5243122 0 66 88 66 58 138 138 1316 531 1 -1 529 357 -1 -1 0 0 118 0 0 118 1 0 58 66  0 0 0
+DynamicPrograms\Actions.oxdoc
+HTML
+17827835 2 -1 1193 -1 1199 161 161 1161 748 0 -1 864 357 -1 -1 0 0 41 -1 -1 41 1 0 1199 -1  0 0 0
+:\Users\Chris\Documents\summary.txt
+ASCII
+273688443 0 0 23 0 1 115 115 1362 393 1 -1 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Actions.h
+DATA
+273678578 0 0 1 0 1 0 0 1076 377 1 -1 73 0 -1 -1 0 0 17 0 0 17 1 0 1 0  0 0 0
+DynamicPrograms\Clock.ox
+DATA
+273678578 0 0 1 3 1 161 161 1237 576 1 -1 73 51 -1 -1 0 0 1 0 0 1 1 0 1 3  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Clock.h
+DATA
+273678578 0 0 1 0 1 115 115 1191 492 1 -1 73 0 -1 -1 0 0 21 0 0 21 1 0 1 0  0 0 0
+DynamicPrograms\StateVariable.ox
+DATA
+273678578 0 0 1 0 1 115 115 1191 530 1 -1 73 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+DynamicPrograms\Spaces.ox
+DATA
+273678578 0 0 1 3 1 69 69 1145 484 1 -1 73 51 -1 -1 0 0 1 0 0 1 1 0 1 3  0 0 0
+DynamicPrograms\RandomEffect.ox
+DATA
+273678578 0 0 1 4 1 46 46 1122 461 1 -1 73 68 -1 -1 0 0 1 0 0 1 1 0 1 4  0 0 0
+DynamicPrograms\DPSystems.ox
+HTML
+269486075 1 -1 52 -1 132 0 0 1362 547 0 -1 25 51 -1 -1 0 0 101 -1 -1 101 1 0 132 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Data.h
+DATA
+273678578 0 0 1 0 1 115 115 1293 508 1 -1 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\DP.h
+DATA
+273678578 0 73 14 1 1 161 161 1237 538 1 -1 73 17 -1 -1 0 0 16 1 1 16 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\StateVariable.h
+DATA
+273678578 0 25 1 0 1 69 69 1168 450 1 -1 73 0 -1 -1 0 0 74 0 0 74 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Spaces.h
+DATA
+273678578 0 0 1 0 1 23 23 1122 404 1 -1 73 0 -1 -1 0 0 74 0 0 74 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Shared.h
+DATA
+273678578 0 0 1 0 1 0 0 1099 381 1 -1 73 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\RandomEffect.h
+DATA
+5243122 0 0 1 17 1 138 138 1237 519 1 -1 73 289 -1 -1 0 0 74 0 0 74 1 0 1 17  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\PhasedTreatment.h
+DATA
+273678578 0 0 1 2 1 115 115 1214 496 1 -1 73 34 -1 -1 0 0 74 0 0 74 1 0 1 2  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Parameters.h
+DATA
+273678578 0 0 1 1 1 92 92 1191 473 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\niqlow.h
+DATA
+273678578 0 0 1 1 1 69 69 1145 446 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\DPSystems.h
+HTML
+269486075 0 -1 598 -1 605 0 0 1362 547 0 -1 219 170 -1 -1 0 0 88 -1 -1 88 1 0 605 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\ReEmpExp.oxdoc.sav
+DATA
+273678578 0 0 1 0 1 92 92 1339 370 1 -1 73 0 -1 -1 0 0 59 0 0 59 1 0 1 0  0 0 0
+DynamicPrograms\DP.ox
+DATA
+273678578 0 986 42 986 49 0 0 1076 415 1 -1 465 510 -1 -1 0 0 1 0 0 1 1 0 49 986  0 0 0
+DynamicPrograms\GetStarted
+HTML
+286263291 1 -1 15726 -1 15966 0 0 1362 547 0 -1 967 272 -1 -1 0 0 43 -1 -1 43 1 0 15966 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\niqlow-license.txt
+ASCII:UNIX
+273786746 0 0 1 0 62 0 0 1362 547 1 -1 561 0 -1 -1 0 0 1 1 1 1 1 0 62 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\CFMPI.h
+DATA
+5243122 0 0 1 0 1 92 92 1168 469 1 -1 73 0 -1 -1 0 0 19 0 0 19 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\CFMPI.c.h
+DATA
+5243122 0 0 1 0 1 69 69 1145 446 1 -1 73 0 -1 -1 0 0 19 0 0 19 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\BlackBox.h
+DATA
+5243122 0 0 1 0 1 46 46 1122 423 1 -1 73 0 -1 -1 0 0 20 0 0 20 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Algorithms.h
+DATA
+5243122 0 0 1 0 1 23 23 1099 400 1 -1 73 0 -1 -1 0 0 17 0 0 17 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\FiveO.h
+DATA
+5243122 0 0 1 1 1 184 184 1260 561 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\LineMax.h
+DATA
+5243122 0 0 1 1 1 23 23 1099 400 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Mixture.h
+DATA
+5243122 0 0 1 1 1 46 46 1122 423 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\NonLinearSystem.h
+DATA
+5243122 0 0 1 1 1 92 92 1168 469 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Objective.h
+DATA
+5243122 0 0 1 1 1 46 46 1145 427 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\ParameterBlock.h
+DATA
+5243122 0 0 1 1 1 69 69 1168 450 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Separable.h
+DATA
+5243122 0 0 1 1 1 161 161 1260 542 1 -1 73 17 -1 -1 0 0 74 0 0 74 1 0 1 1  0 0 0
+Optimization\BlackBox.ox
+DATA
+273678578 0 1 1 1 1 0 0 1362 501 1 -1 73 17 -1 -1 0 0 1 1 1 1 1 0 1 1  0 0 0
+Optimization\Algorithms.ox
+DATA:UNIX
+5341426 0 8 39 1 1 0 0 1362 501 1 -1 73 17 -1 -1 0 0 30 1 1 30 1 0 1 1  0 0 0
+Optimization\FiveO.ox
+HTML
+17827835 1 -1 0 -1 75 0 0 1362 501 1 -1 73 17 -1 -1 0 0 99 -1 -1 99 1 0 75 -1  0 0 0
+Optimization\Mixture.ox
+DATA
+5243122 0 0 1 1 1 0 0 1076 415 1 -1 73 17 -1 -1 0 0 -1 -1 -1 -1 1 0 1 1  0 0 0
+Optimization\NonLinearSystem.ox
+DATA
+5243122 0 0 1 1 1 23 23 1099 438 1 -1 73 17 -1 -1 0 0 -1 -1 -1 -1 1 0 1 1  0 0 0
+Optimization\Objective.ox
+DATA
+5243122 0 0 1 1 1 0 0 1362 501 1 -1 73 17 -1 -1 0 0 92 1 1 92 1 0 1 1  0 0 0
+Optimization\Parameters.ox
+HTML:UNIX
+17926139 0 -1 2628 -1 74 0 0 1362 501 1 -1 73 17 -1 -1 0 0 97 -1 -1 97 1 0 74 -1  0 0 0
+Optimization\Separable.ox
+DATA
+5243122 1 0 1 1 1 0 0 1362 501 1 -1 73 17 -1 -1 0 0 1 2 2 1 1 0 1 1  0 0 0
+Optimization\ParameterBlock.ox
+DATA
+5243122 4 1 31 1 32 69 69 1145 484 1 -1 321 17 -1 -1 0 0 -1 -1 -1 -1 1 0 32 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\templates\DynamicPrograms\MyStateVar.ox
+HTML
+1050619 0 -1 10 -1 510 0 0 1362 547 0 -1 115 221 -1 -1 0 0 13 -1 -1 13 1 0 510 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\reempBonus.h
+HTML
+1050619 0 -1 0 -1 2024 0 0 1362 547 0 -1 25 442 -1 -1 0 0 3 -1 -1 3 1 0 2024 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\reBmain.ox
+HTML
+1050619 0 -1 0 -1 0 0 0 1362 547 0 -1 25 0 -1 -1 0 0 32 -1 -1 32 1 0 0 -1  0 0 0
+DynamicPrograms\ox-error-message.html
+HTML
+17827835 0 -1 523 -1 523 69 69 1161 446 0 -1 25 272 -1 -1 0 0 0 -1 -1 0 1 0 523 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\DynamicPrograms\print.css
+DATA:UNIX
+5341426 0 25 5 24 20 0 0 1362 566 1 -1 225 408 -1 -1 0 0 13 0 0 13 1 0 20 24  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\method\method_text\uimodel.tex
+TeX
+1060859 0 -1 333 -1 3931 0 0 1362 547 0 -1 25 459 -1 -1 0 0 0 -1 -1 0 1 0 3931 -1  0 0 0
+:\Users\Chris\Desktop\niqlow-grant.txt
+ASCII
+5252987 0 0 1 0 1 0 0 1362 547 0 -1 25 0 -1 -1 0 0 15 0 0 15 1 0 1 0  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Preferences.ini
+DATA:INI:EDT
+1048826 0 0 1 0 1 0 0 1276 690 1 -1 73 0 -1 -1 0 0 83 0 0 83 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\print.css
+DATA:UNIX
+273776882 0 13 1 0 1 0 0 1362 547 1 -1 73 0 -1 -1 0 0 13 0 0 13 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\text\print.css
+DATA:UNIX
+273776882 0 4 1 3 1 0 0 1362 547 1 -1 73 51 -1 -1 0 0 13 0 0 13 1 0 1 3  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\oxdoc.css.hold
+DATA
+5308658 0 0 1 0 1 23 23 1023 585 1 -1 73 -51 -1 -1 0 0 7 0 0 7 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\reempBonus.ox
+HTML
+269486075 0 -1 2997 -1 0 0 0 1362 547 0 -1 25 0 -1 -1 0 0 58 -1 -1 58 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\templates\DynamicPrograms\MyStateVar1.ox
+HTML
+269486075 0 -1 0 -1 54 0 0 1362 566 0 -1 25 60 -1 -1 0 0 16 -1 -1 16 1 0 54 -1  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Wrapping.ini
+DATA:INI:EDT
+269484282 0 0 1 25 16 0 0 1362 566 1 -1 233 114 -1 -1 0 0 83 0 0 83 1 0 16 25  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\REFEREE\aer-2012-ratrace.txt
+ASCII
+273688443 1 31 1 88 1 0 0 1362 566 0 -1 25 532 -1 -1 0 0 1 0 0 1 1 0 1 88  0 0 0
+:\Users\Chris\Downloads\register_for_frontiers_of_macro_2012.tsv
+DATA:UNIX
+273776882 0 0 1 0 1 0 0 1362 566 1 -1 83 0 -1 -1 0 0 78 0 0 78 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\WolpinJPE1984.h
+HTML
+269486075 0 -1 217 -1 0 0 0 1362 566 0 -1 25 0 -1 -1 0 0 13 -1 -1 13 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\REFEREE\labour-econ-coe.txt
+ASCII
+273688443 0 0 1 23 49 0 0 780 342 0 -1 505 209 -1 -1 0 0 1 0 0 1 1 0 49 23  0 0 0
+DynamicPrograms\NewState
+HTML
+286263291 0 -1 61 -1 0 0 0 1362 566 0 -1 25 0 -1 -1 0 0 57 -1 -1 57 1 0 0 -1  0 0 0
+:\Program Files (x86)\oxdoc-mysource\src\Config.java
+DATA:UNIX
+273776882 2 137 32 137 37 0 0 1362 566 1 -1 443 513 -1 -1 0 0 -1 -1 -1 -1 1 0 37 137  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\DynamicPrograms\oxdoc.css.bak
+DATA
+273744114 2 181 22 181 27 0 0 1362 566 1 -1 343 798 -1 -1 0 0 -1 -1 -1 -1 1 0 27 181  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\June2011\niplow\source\container.ox
+HTML
+269486075 1 -1 157 -1 798 0 0 1362 566 0 -1 25 260 -1 -1 0 0 -1 -1 -1 -1 1 0 798 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\examples\main.h
+HTML
+269486075 1 -1 1 -1 7 0 0 1362 566 0 -1 88 0 -1 -1 0 0 -1 -1 -1 -1 1 0 7 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\June2011\niplow\doc\socialExperiment.ox.html
+HTML:UNIX
+269584379 0 -1 0 -1 0 0 0 1362 566 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\About.html
+HTML
+269486075 0 -1 0 -1 0 0 0 1362 566 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Program Files (x86)\oxdoc-mysource\src\writeconstants\WriteConstants.java
+DATA:UNIX
+273776882 0 0 1 0 1 0 0 1276 852 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Program Files (x86)\oxdoc-mysource\src\setup\OxDocSetup.java
+DATA:UNIX
+273776882 0 0 1 0 1 0 0 1276 852 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Program Files (x86)\oxdoc-mysource\src\OxDoc.java
+DATA:UNIX
+273776882 0 0 1 84 1 0 0 1276 852 1 -1 83 380 -1 -1 0 0 -1 -1 -1 -1 1 0 1 84  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\oxdoctest\doc\oxdoc.css
+DATA
+273744114 0 0 1 146 1 0 0 1276 852 1 -1 83 798 -1 -1 0 0 -1 -1 -1 -1 1 0 1 146  0 0 0
+:\Program Files (x86)\oxdoc-mysource\src\OutputFile.java
+DATA:UNIX
+273776882 0 0 1 0 1 0 0 1276 852 1 -1 83 -419 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\templates\DynamicPrograms\StateVariable.ox
+HTML
+269486075 0 -1 1513 -1 0 0 0 1362 566 0 -1 25 0 -1 -1 0 0 67 -1 -1 67 1 0 0 -1  0 0 0
+DynamicPrograms\States&Blocks
+HTML
+269486075 0 -1 4037 -1 2514 0 0 1362 566 0 -1 25 40 -1 -1 0 0 -1 -1 -1 -1 1 0 2514 -1  0 0 0
+:\Program Files (x86)\oxdoc-source\README
+HTML:UNIX
+269584379 0 -1 0 -1 1143 0 0 1362 547 0 -1 25 540 -1 -1 0 0 -1 -1 -1 -1 1 0 1143 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\JDI\kenCo.csv
+DATA
+273678578 1 0 1 2 1 0 0 1362 585 1 -1 83 38 -1 -1 0 0 -1 -1 -1 -1 1 0 1 2  0 0 0
+:\Users\Chris\Documents\OFFICE\PROF\JDI\kenCo2.csv
+ASCII
+273688443 0 0 1 0 1 0 0 1362 585 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\AppData\Local\Temp\Temp1_Downton Abbey_2x04_720p HDTV.Downton_Abbey.2×04.720p_HDTV_x264-FoV.en.zip\intro.html
+HTML
+269486075 0 41 120 -1 12478 0 0 1362 501 0 -1 52 480 -1 -1 0 0 92 -1 -1 92 1 0 12478 -1  0 0 0
+:\Users\Chris\Desktop\fm.csv
+ASCII
+273688442 0 4 1 3 19 0 0 1260 485 0 -1 205 57 -1 -1 0 0 -1 -1 -1 -1 1 0 19 3  0 0 0
+:\Users\Chris\Desktop\qcse.txt
+ASCII
+273688443 1 1 1 21 1 0 0 1362 501 1 -1 83 399 -1 -1 0 0 -1 -1 -1 -1 1 0 1 21  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\preamble.tex
+TeX
+286273531 1 -1 161 -1 216 0 0 1362 501 0 -1 705 133 -1 -1 0 0 22 -1 -1 22 1 0 216 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\GPC_fmopt\source\client_system.pas
+DATA
+5243122 0 45 27 1 34 0 0 1362 501 1 -1 413 19 -1 -1 0 0 1 0 0 1 1 0 34 1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\misc\nfxp\dat\README
+HTML:UNIX
+1148923 0 -1 1190 -1 357 0 0 1362 501 0 -1 133 140 -1 -1 0 0 24 -1 -1 24 1 0 357 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\misc\nfxp\bet.fmt
+DATA
+5243122 0 0 1 0 1 0 0 1362 501 1 -1 83 0 -1 -1 0 0 137 0 0 137 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\GPC_fmopt\source\client_anneal.pas
+DATA
+5243122 0 12 54 24 34 0 0 1362 501 1 -1 413 228 -1 -1 0 0 74 0 0 74 1 0 34 24  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\include\Variable.h
+HTML
+17827835 0 -1 2141 -1 0 0 0 1362 501 1 -1 78 0 -1 -1 0 0 16 -1 -1 16 1 0 0 -1  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Modes.ini
+DATA:INI:EDT
+1048826 2 30 12 30 15 0 0 1362 501 1 -1 223 456 -1 -1 0 0 83 0 0 83 1 0 15 30  0 0 0
+DynamicPrograms\Variable.ox
+DATA
+5243122 0 0 1 56 1 0 0 1362 501 1 -1 83 171 -1 -1 0 0 75 0 0 75 1 0 1 56  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Fonts.ini
+DATA:INI:EDT
+1048826 0 76 21 83 15 0 0 1362 501 1 -1 223 456 -1 -1 0 0 83 0 0 83 1 0 15 83  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Tabs.ini
+DATA:INI:EDT
+1048826 0 0 1 0 1 0 0 1362 501 1 -1 83 0 -1 -1 0 0 83 0 0 83 1 0 1 0  0 0 0
+Optimization\A-quick-start
+HTML
+17827835 0 -1 12739 -1 12715 0 0 1362 501 0 -1 52 240 -1 -1 0 0 116 -1 -1 116 1 0 12715 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\tennis_v1_0.tex
+TeX
+1060859 0 -1 0 -1 0 0 0 1362 501 0 -1 25 0 -1 -1 0 0 50 -1 -1 50 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\misc\nfxp\a530875.asc
+DATA:UNIX
+273776882 0 0 1 2 9 0 0 1362 501 1 -1 163 38 -1 -1 0 0 9 0 0 9 1 0 9 2  0 0 0
+:\Users\Chris\Documents\OFFICE\software\GPC_fmopt\source\client_nmsimp.pas
+DATA
+273678578 0 0 1 0 1 0 0 1362 501 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+Optimization\SimulatedAnnealing.ox
+HTML
+269486075 0 -1 0 -1 0 0 0 1362 482 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+Optimization\QuasiNewton.ox
+HTML
+269486075 0 -1 0 -1 0 0 0 1362 482 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\oldNiplow\old\niplow.h
+HTML
+269486075 0 -1 0 -1 0 0 0 1362 501 0 -1 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+install.
+DATA
+273678578 0 43 81 0 1 0 0 1362 501 0 -1 25 0 -1 -1 0 0 39 0 0 39 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\install.html
+HTML
+269486075 0 43 81 -1 3457 0 0 1362 501 0 -1 808 480 -1 -1 0 0 38 -1 -1 38 1 0 3457 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\default.html
+HTML:UNIX
+269584379 0 -1 918 -1 383 0 0 1362 501 0 -1 25 160 -1 -1 0 0 38 -1 -1 38 1 0 383 -1  0 0 0
+:\Users\Chris\AppData\Roaming\WinEdt Team\WinEdt 6\ConfigEx\Font.ini
+DATA:INI:EDT
+269484282 0 0 1 0 1 0 0 782 566 1 -1 83 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\DynamicPrograms\NewState.html
+HTML
+286263275 0 169 53 -1 11927 0 0 1362 501 0 -1 44 460 -1 -1 0 0 -1 -1 -1 -1 1 0 11927 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\ec351\source\nLRM.ox
+DATA
+273678578 1 11 1 12 1 0 0 1362 501 1 -1 83 228 -1 -1 0 0 -1 -1 -1 -1 1 0 1 12  0 0 0
+:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\doc\DynamicPrograms\A-quick-start.html
+HTML:UNIX
+269584379 0 -1 0 -1 839 0 0 1362 501 0 -1 25 414 -1 -1 0 0 -1 -1 -1 -1 1 0 839 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\software\GPC_fmopt\source\client_grad.pas
+DATA
+273678578 0 0 1 433 34 0 0 944 884 1 -1 413 532 -1 -1 0 0 -1 -1 -1 -1 1 0 34 433  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\pdfslides.tex
+TeX
+17838074 1 30 1 31 1 0 0 1916 928 0 -1 25 266 -1 -1 0 0 1 1 1 1 1 0 1 31  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\algor.tex
+TeX
+17838075 1 -1 73 -1 47 0 0 1916 928 0 -1 365 19 -1 -1 0 0 11 -1 -1 11 1 0 47 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\section.tex
+TeX
+1060858 1 72 1 75 1 0 0 1916 928 0 -1 25 563 -1 -1 0 0 32 1 1 32 1 0 1 75  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\ec351\source\oxdoc.xml
+DATA
+273678578 1 0 1 7 1 0 0 1916 928 1 -1 83 133 -1 -1 0 0 -1 -1 -1 -1 1 0 1 7  0 0 0
+:\Users\Chris\Documents\OFFICE\CLASSES\Inactive\ec486-w09\syllabus.tex
+TeX
+269496315 7 -1 1 -1 9 0 0 1916 928 0 -1 115 0 -1 -1 0 0 -1 -1 -1 -1 1 0 9 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\model12.tex
+TeX
+269496315 2 -1 126 -1 128 44 58 932 456 0 -1 86 76 -1 -1 0 0 69 -1 -1 69 1 0 128 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\GRANTS\SSHRC06\my_cv08.tex
+TeX
+269496315 0 -1 46288 -1 10137 138 138 1253 513 0 -1 30 152 -1 -1 0 0 -1 -1 -1 -1 1 0 10137 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\outline_based_on_slides.tex
+TeX
+286273531 0 -1 8391 -1 8470 0 0 910 349 0 -1 22 380 -1 -1 0 0 89 -1 -1 89 1 0 8470 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\model11.tex
+TeX
+269496315 0 -1 8608 -1 8608 66 99 976 502 0 -1 598 266 -1 -1 0 0 26 -1 -1 26 1 0 8608 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\pdfcolor.tex
+TeX
+269496315 0 -1 572 -1 1185 44 58 954 388 0 -1 22 357 -1 -1 0 0 16 -1 -1 16 1 0 1185 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\EQUATE.TEX
+TeX
+269496315 0 -1 660 -1 660 88 116 976 514 0 -1 398 221 -1 -1 0 0 19 -1 -1 19 1 0 660 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\html.tex
+TeX
+269496315 0 -1 118 -1 136 88 116 998 446 0 -1 166 34 -1 -1 0 0 18 -1 -1 18 1 0 136 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\ox\market_new_equilibrium.ox
+Ox
+269485042 0 196 1 197 1 132 174 1020 572 0 -1 22 102 -1 -1 0 0 -1 -1 -1 -1 1 0 1 197  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\ox\execute_new_equilibrium.ox
+Ox
+269485042 0 0 1 0 1 110 145 998 543 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\j0_2_2.start.mat
+DATA
+273678578 0 0 1 0 1 66 87 954 485 0 -1 22 0 -1 -1 0 0 4 0 0 4 1 0 1 0  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\j0_0_2.mat
+DATA
+273678578 0 0 1 0 1 66 87 954 485 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\code_chris\code_chris\final_rev.ox
+Ox
+269485042 0 800 1 788 51 22 29 910 427 0 -1 422 12275 -1 -1 0 0 60 0 0 60 1 0 51 788  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1e.tex
+TeX
+1060859 0 -1 972 -1 974 22 29 932 378 0 -1 670 340 -1 -1 0 0 0 -1 -1 0 1 0 974 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1b.tex
+TeX
+1060859 0 -1 92 -1 94 88 116 998 465 0 -1 654 34 -1 -1 0 0 0 -1 -1 0 1 0 94 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1a.tex
+TeX
+1060859 0 -1 405 -1 405 66 87 976 436 0 -1 142 170 -1 -1 0 0 0 -1 -1 0 1 0 405 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1c.tex
+TeX
+1060859 0 -1 524 -1 526 110 145 1020 494 0 -1 958 204 -1 -1 0 0 13 -1 -1 13 1 0 526 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1g.tex
+TeX
+1060859 0 -1 854 -1 856 66 87 976 436 0 -1 318 255 -1 -1 0 0 0 -1 -1 0 1 0 856 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2e.tex
+TeX
+1060859 0 -1 48 -1 853 44 58 954 407 0 -1 102 289 -1 -1 0 0 2 -1 -1 2 1 0 853 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2a.tex
+TeX
+17838075 0 -1 348 -1 646 88 116 998 465 0 -1 22 204 -1 -1 0 0 49 -1 -1 49 1 0 646 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2cb.tex
+TeX
+1060859 0 -1 496 -1 511 66 87 976 417 0 -1 926 187 -1 -1 0 0 0 -1 -1 0 1 0 511 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s3b.tex
+TeX
+1060859 0 -1 966 -1 968 44 58 954 407 0 -1 534 272 -1 -1 0 0 0 -1 -1 0 1 0 968 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s3c.tex
+TeX
+1060859 0 -1 790 -1 679 66 87 976 436 0 -1 734 170 -1 -1 0 0 11 -1 -1 11 1 0 679 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s3a.tex
+TeX
+1060859 0 -1 660 -1 662 0 0 910 349 0 -1 430 238 -1 -1 0 0 43 -1 -1 43 1 0 662 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\BrainDrain\preamble.tex
+TeX
+1060859 1 -1 306 -1 361 66 87 954 485 0 -1 542 170 -1 -1 0 0 11 -1 -1 11 1 0 361 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2f.tex
+TeX
+1060859 0 -1 928 -1 506 66 87 954 485 0 -1 22 204 -1 -1 0 0 11 -1 -1 11 1 0 506 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\BrainDrain\brains3.tex
+TeX
+269496315 0 -1 0 -1 0 44 58 932 456 0 -1 22 0 -1 -1 0 0 69 -1 -1 69 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\GRANTS\SSHRC06\my_cv07.tex
+TeX
+286273531 0 -1 9757 -1 9662 66 87 976 417 0 -1 398 204 -1 -1 0 0 69 -1 -1 69 1 0 9662 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_head.htm
+HTML
+269486075 0 -1 803 -1 878 0 0 888 398 0 -1 422 289 -1 -1 0 0 -1 -1 -1 -1 1 0 878 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_stud.htm
+HTML
+269486075 0 -1 4168 -1 3358 66 87 954 485 0 -1 262 884 -1 -1 0 0 59 -1 -1 59 1 0 3358 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_class.htm
+HTML
+269486075 0 -1 717 -1 633 88 116 976 514 0 -1 438 153 -1 -1 0 0 -1 -1 -1 -1 1 0 633 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_proj.htm
+HTML
+269486075 0 -1 266 -1 948 132 174 1020 572 0 -1 22 357 -1 -1 0 0 -1 -1 -1 -1 1 0 948 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_grant.htm
+HTML
+269486075 0 -1 0 -1 0 110 145 998 543 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\GRANTS\SSHRC06\my_cv.tex
+TeX
+269496315 0 -1 0 -1 0 0 0 888 398 0 -1 22 -4029 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\ssp44j.start
+DATA
+273678582 0 0 3 22 1 44 58 932 456 1 -1 70 374 -1 -1 0 0 38 0 0 38 1 0 1 22  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\workplace10b.tex
+TeX
+269496315 2 -1 11562 -1 11564 0 0 888 398 0 -1 686 374 -1 -1 0 0 68 -1 -1 68 1 0 11564 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\refer.html
+HTML
+269486075 1 -1 1628 -1 1614 110 145 998 543 0 -1 22 368 -1 -1 0 0 55 -1 -1 55 1 0 1614 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\quotes.html
+HTML
+286263291 0 -1 0 -1 3660 44 58 932 456 0 -1 766 544 -1 -1 0 0 65 -1 -1 65 1 0 3660 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\quiz.txt
+ASCII
+273688442 0 68 60 210 11 88 116 976 514 0 -1 102 3570 -1 -1 0 0 77 0 0 77 1 0 11 210  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\syllabus.html
+HTML
+286263291 1 -1 907 -1 894 22 29 910 427 0 -1 54 357 -1 -1 0 0 0 -1 -1 0 1 0 894 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\glossary.txt
+ASCII
+273688443 0 2 1 0 1 66 87 954 485 0 -1 22 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\REFEREE\aer_ceo.txt
+ASCII
+273688443 0 18 1 91 1 0 0 888 398 0 -1 22 204 -1 -1 0 0 1 19 19 1 1 0 1 91  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\CLASSES\climate\quiz.html
+HTML
+286263291 0 -1 3693 -1 4084 88 116 976 514 0 -1 22 544 -1 -1 0 0 76 -1 -1 76 1 0 4084 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\TWELVE.TEX
+TeX
+269496315 0 -1 285 -1 921 66 87 976 417 0 -1 22 221 -1 -1 0 0 69 -1 -1 69 1 0 921 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\workplace_preamble.tex
+TeX
+269496315 0 -1 0 -1 0 44 58 954 407 0 -1 22 0 -1 -1 0 0 11 -1 -1 11 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\FOOTS.TEX
+TeX
+269496315 0 -1 0 -1 0 110 145 1020 494 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\rtalentALL.tex
+TeX
+269496315 0 -1 72 -1 77 88 116 976 514 0 -1 638 0 -1 -1 0 0 85 -1 -1 85 1 0 77 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1d.tex
+TeX
+286273531 0 -1 226 -1 0 0 0 910 349 0 -1 22 0 518 272 1 0 67 15 15 67 1 0 0 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1f.tex
+TeX
+269496315 0 -1 160 -1 159 44 58 954 407 0 -1 278 68 -1 -1 0 0 43 -1 -1 43 1 0 159 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\authors.tex
+TeX
+269496315 0 -1 0 -1 8 132 174 1020 572 0 -1 86 0 -1 -1 0 0 8 -1 -1 8 1 0 8 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\titlepage_screen.tex
+TeX
+269496315 0 -1 309 -1 109 66 87 976 417 0 -1 894 0 -1 -1 0 0 110 -1 -1 110 1 0 109 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\slides.tex
+TeX
+286273531 0 -1 864 -1 960 0 0 910 349 0 -1 22 476 -1 -1 0 0 91 -1 -1 91 1 0 960 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\newpaper3.tex
+TeX
+269496315 0 -1 6145 -1 6106 88 116 998 446 0 -1 22 136 -1 -1 0 0 74 -1 -1 74 1 0 6106 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2b.tex
+TeX
+269496315 0 -1 665 -1 219 110 145 1020 494 0 -1 622 68 -1 -1 0 0 0 -1 -1 0 1 0 219 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2c.tex
+TeX
+269496315 0 -1 111 -1 290 0 0 910 349 0 -1 542 119 -1 -1 0 0 2 -1 -1 2 1 0 290 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s1eb.tex
+TeX
+269496315 0 -1 626 -1 236 22 29 932 378 0 -1 22 85 -1 -1 0 0 0 -1 -1 0 1 0 236 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\s2d.tex
+TeX
+269496315 0 -1 8 -1 41 44 58 954 407 0 -1 22 34 -1 -1 0 0 0 -1 -1 0 1 0 41 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\newpaper2.tex
+TeX
+269496315 0 -1 0 -1 0 22 29 932 378 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\slides11a.tex
+TeX
+269496315 1 -1 1436 -1 1614 22 29 932 378 0 -1 22 238 -1 -1 0 0 25 -1 -1 25 1 0 1614 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\slides11.tex
+TeX
+269496315 0 -1 0 -1 239 0 0 910 330 0 -1 158 119 -1 -1 0 0 25 -1 -1 25 1 0 239 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\pfclear.tex
+TeX
+286273531 1 -1 64 -1 57 88 116 998 446 0 -1 478 0 -1 -1 0 0 70 -1 -1 70 1 0 57 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\GRANTS\SSHRC06\s2d.tex
+TeX
+269496315 0 23 41 -1 41 44 58 954 407 0 -1 22 34 -1 -1 0 0 0 -1 -1 0 1 0 41 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\EMTEX\pfend.tex
+TeX
+269496315 0 -1 0 -1 0 66 87 976 417 0 -1 22 0 -1 -1 0 0 11 -1 -1 11 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\bug.tex
+TeX
+269496315 0 -1 74 -1 70 66 87 976 417 0 -1 118 17 -1 -1 0 0 -1 -1 -1 -1 1 0 70 -1  0 0 0
+:\Users\Chris\Documents\OFFICE\DATA\tennis\text\slides.log
+DATA
+307233010 0 0 1 0 1 44 58 998 311 1 -1 70 -357 -1 -1 0 0 95 0 0 95 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\s1aa.tex
+TeX
+269496315 1 -1 39 -1 28 44 58 954 407 0 -1 22 68 -1 -1 0 0 0 -1 -1 0 1 0 28 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44zzz.pas
+Pascal
+269484258 0 1064 1 1064 1 88 116 998 446 1 -1 70 357 -1 -1 0 0 1 0 0 1 1 0 1 1064  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\client_eval.pas
+DATA
+5243122 2 277 14 277 21 110 145 1020 475 1 -1 230 221 -1 -1 0 0 63 0 0 63 1 0 21 277  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_client.pas
+DATA
+5243122 0 284 9 288 14 22 29 932 359 1 -1 174 289 -1 -1 0 0 1 0 0 1 1 0 14 288  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt.def
+DATA
+5243122 0 36 13 7 18 66 87 976 417 1 -1 206 119 -1 -1 0 0 1 0 0 1 1 0 18 7  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_server.pas
+Pascal
+1049586 0 16 1 36 1 0 0 910 330 0 -1 22 391 -1 -1 0 0 1 0 0 1 1 0 1 36  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44_utilities_z.pas
+DATA
+5243123 0 20 1 0 1 22 29 932 359 1 -1 70 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\fmopt_user.global
+DATA
+5243122 1 172 19 172 4 0 0 910 330 1 -1 94 323 -1 -1 0 0 6 0 0 6 1 0 4 172  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\fmopt_shared.global
+Pascal
+1049586 0 14 92 15 1 110 145 1020 475 0 -1 22 255 -1 -1 0 0 77 0 0 77 1 0 1 15  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44.global
+DATA
+5243122 0 214 26 215 21 88 116 998 446 1 -1 230 238 -1 -1 0 0 6 0 0 6 1 0 21 215  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt.global
+DATA
+5243122 1 305 22 305 63 0 0 910 330 1 -1 566 272 -1 -1 0 0 72 0 0 72 1 0 63 305  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\client_private_new.global
+DATA
+5243122 0 41 4 0 1 44 58 954 388 1 -1 70 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_internal.def
+DATA
+273678578 0 13 14 13 69 44 58 954 388 1 -1 614 221 -1 -1 0 0 1 0 0 1 1 0 69 13  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\mpi_pas.def
+DATA
+273678578 0 0 1 0 1 44 58 954 388 1 -1 70 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\admin\QUANT\niepa2006\dean support.tex
+TeX
+286273531 0 -1 1436 -1 1714 88 116 998 446 0 -1 22 408 -1 -1 0 0 70 -1 -1 70 1 0 1714 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\REFEREE\eer-school.txt
+ASCII
+273688443 0 1 1 51 82 110 145 1020 475 0 -1 670 170 -1 -1 0 0 1 0 0 1 1 0 82 51  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\authors.tex
+TeX
+269496315 5 -1 363 -1 362 66 87 672 280 0 -1 86 170 -1 -1 0 0 16 -1 -1 16 1 0 362 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\VITAE\cv_conf.htm
+HTML
+269486075 0 -1 227 -1 776 110 145 1020 475 0 -1 22 170 -1 -1 0 0 -1 -1 -1 -1 1 0 776 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\ssptext\computationa.tex
+TeX
+269496315 1 -1 1312 -1 1292 22 29 932 359 0 -1 22 340 -1 -1 0 0 -1 -1 -1 -1 1 0 1292 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\fmtest\fmopt_shared.global
+Pascal
+269485042 0 0 1 13 27 44 58 954 388 0 -1 230 221 -1 -1 0 0 -1 -1 -1 -1 1 0 27 13  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt.pas
+DATA
+273678578 0 227 37 227 35 44 58 954 388 1 -1 342 391 -1 -1 0 0 17 0 0 17 1 0 35 227  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_private.global
+DATA
+273678578 0 3 3 0 1 88 116 998 446 1 -1 70 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\client_grad.pas
+DATA
+273678578 0 118 1 118 1 110 145 1020 475 1 -1 70 221 -1 -1 0 0 1 0 0 1 1 0 1 118  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_mat.def
+DATA
+273678578 1 2 1 3 1 66 87 976 417 1 -1 70 51 -1 -1 0 0 56 0 0 56 1 0 1 3  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_from_c.pas
+Pascal
+269485042 0 22 89 22 99 22 29 932 359 0 -1 806 374 -1 -1 0 0 -1 -1 -1 -1 1 0 99 22  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\client_system.pas
+DATA
+273678578 0 107 36 194 36 0 0 910 330 1 -1 350 374 -1 -1 0 0 1 0 0 1 1 0 36 194  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_mat.pas
+DATA
+273678578 0 40 72 169 32 22 29 932 359 1 -1 318 238 -1 -1 0 0 15 0 0 15 1 0 32 169  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\Fertility\productivity growth\steadystate.tex
+TeX
+269496315 0 -1 0 -1 0 22 29 932 359 0 -1 22 -102 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\Fertility\constant productivity\babyboom_joint.tex
+TeX
+269496315 0 -1 2413 -1 81504 44 58 954 388 0 -1 22 425 -1 -1 0 0 -1 -1 -1 -1 1 0 81504 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\Fertility\constant productivity\babyboom_new v2.tex
+TeX
+269496315 0 -1 0 -1 0 44 58 954 388 0 -1 22 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44.start
+DATA
+273678582 0 19 3 14 33 0 0 910 330 1 -1 326 -595 -1 -1 0 0 -1 -1 -1 -1 1 0 33 14  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44z.max
+DATA
+273678582 0 19 3 14 33 0 0 910 330 1 -1 326 -595 -1 -1 0 0 -1 -1 -1 -1 1 0 33 14  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\data\ssp44.start_14
+DATA
+273678578 0 0 1 0 1 88 116 998 446 1 -1 70 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\fmopt_user_z.global
+DATA
+273678578 0 41 68 0 1 78 35 966 433 1 -1 70 0 -1 -1 0 0 6 0 0 6 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\REFEREE\ier sullivan editor 2.txt
+ASCII
+273688443 0 15 10 20 1 88 116 998 446 0 -1 22 340 -1 -1 0 0 -1 -1 -1 -1 1 0 1 20  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\PROF\REFEREE\ier sullivan editor.txt
+ASCII
+273688443 0 15 11 20 1 88 116 998 446 0 -1 22 340 -1 -1 0 0 -1 -1 -1 -1 1 0 1 20  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\client_grad_new.pas
+DATA
+5243122 7 69 81 69 15 510 0 1020 444 1 -1 182 187 -1 -1 0 0 1 0 0 1 1 0 15 69  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\testz.dmp
+DATA
+273678582 0 40 9 53 30 44 58 954 388 1 -1 302 187 -1 -1 0 0 187 0 0 187 1 0 30 53  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44rrr.pas
+DATA
+273678578 1 440 13 440 29 66 60 954 458 1 -1 294 85 -1 -1 0 0 1 0 0 1 1 0 29 440  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\SSP\source\ssp44_utilities_q.pas
+DATA
+273678578 0 15 33 0 1 22 29 910 427 1 -1 70 0 -1 -1 0 0 1 0 0 1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\software\GPC_fmopt\source\fmopt_private.header
+DATA
+273678578 0 0 1 0 1 88 116 998 446 1 -1 70 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\italentALL.tex
+TeX
+1060859 0 -1 0 -1 0 66 87 954 485 0 -1 22 0 -1 -1 0 0 78 -1 -1 78 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\refer.tex
+TeX
+1060859 0 -1 0 -1 0 44 58 932 456 0 -1 22 0 -1 -1 0 0 1 -1 -1 1 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\rprodALL.tex
+TeX
+1060859 0 -1 0 -1 0 22 29 910 427 0 -1 22 0 -1 -1 0 0 77 -1 -1 77 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\ioptALL.tex
+TeX
+1060859 0 -1 0 -1 0 0 0 888 398 0 -1 22 0 -1 -1 0 0 86 -1 -1 86 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\dvmpIRS.tex
+TeX
+1060859 0 -1 0 -1 0 132 174 1020 572 0 -1 22 0 -1 -1 0 0 76 -1 -1 76 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\ivmpIRS.tex
+TeX
+1060859 0 -1 0 -1 0 110 145 998 543 0 -1 22 0 -1 -1 0 0 85 -1 -1 85 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\dvmpALL.tex
+TeX
+1060859 0 -1 0 -1 0 88 116 976 514 0 -1 22 0 -1 -1 0 0 76 -1 -1 76 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\ilinearALL.tex
+TeX
+1060859 0 -1 0 -1 0 66 87 954 485 0 -1 22 0 -1 -1 0 0 94 -1 -1 94 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\IvmpALL.tex
+TeX
+1060859 0 -1 0 -1 0 44 58 932 456 0 -1 22 0 -1 -1 0 0 85 -1 -1 85 1 0 0 -1  0 0 0
+:\Documents and Settings\Chris\My Documents\OFFICE\DATA\norge\norge_text\dotaALL.tex
+TeX
+1060859 0 -1 0 -1 0 22 29 910 427 0 -1 22 0 -1 -1 0 0 74 -1 -1 74 1 0 0 -1  0 0 0
+
+*FiveO\GetStarted

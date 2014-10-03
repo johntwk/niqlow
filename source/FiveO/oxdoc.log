@@ -1,0 +1,37 @@
+Log file created at 10/03/14 09:03:05
+oxdoc 1.1-beta [05/22/14]
+(c) Copyright 2005-2014 by Y. Zwols [yorizwols@users.sourceforge.net]
+
+oxdoc is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+See the LICENSE file for distribution details.
+
+Loading configuration file oxdoc.xml
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\GetStarted
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\Parameters.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\Objective.ox
+Warning: Definition of method Vec of class CPoint: class CPoint is not defined yet.
+Warning: Definition of method Vec of class CPoint: method is not declared yet.
+Warning: Definition of method aggregate of class MixPoint: class MixPoint is not defined yet.
+Warning: Definition of method aggregate of class MixPoint: method is not declared yet.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\ParallelObjective.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\Algorithms.ox
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\..\Shared\Shared.ox
+Warning: Included file oxstd.oxh could not be opened. File will be ignored.
+Warning: Included file oxfloat.oxh could not be opened. File will be ignored.
+Warning: Included file oxprob.oxh could not be opened. File will be ignored.
+Reading file C:\Users\Chris\Documents\OFFICE\software\Microeconometrics\niqlow\source\FiveO\FiveO.ox
+Warning: Symbol 'Object::CheckMax' referenced, but not found
+Warning: Symbol 'Objective::F' referenced, but not found
+Warning: Symbol 'DP::SetClock' referenced, but not found
+Warning: Symbol 'Stationary' referenced, but not found
+Warning: Symbol 'Aging' referenced, but not found
+Warning: Symbol 'StaticP' referenced, but not found
+Warning: Symbol 'AgeBrackets' referenced, but not found
+Warning: Symbol 'Mortality' referenced, but not found
+Warning: Symbol 'Longevity' referenced, but not found
+Warning: Symbol 'PhasedTreatment' referenced, but not found
+Warning: Symbol 'StateBlock' referenced, but not found
+Warning: Symbol 'StateVariable::Transit' referenced, but not found
+Warning: Symbol 'DP::UpdateVariables' referenced, but not found
+Warning: Symbol 'DP::ExogenousTransition' referenced, but not found
